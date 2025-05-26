@@ -14,5 +14,5 @@ This is a simple Angular app learning. Components, routing, service – all prac
 ### Step 1: Clone
 
 ```bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/MonishaMurugesan23/myProject.git
 cd project-name
